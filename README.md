@@ -1,1 +1,1 @@
-"# express-generator-template" 
+# express-generator-template
